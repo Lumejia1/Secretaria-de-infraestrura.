@@ -982,7 +982,7 @@
                   .centered-image {
                     display: block;
                     margin: 0 auto; /* Esto centra horizontalmente */
-                    max-width: 30%; /* Establece el tamaño máximo al 30% del contenedor */
+                    max-width: 50%; /* Establece el tamaño máximo al 50% del contenedor */
                   }
                 </style>
                 </head>
