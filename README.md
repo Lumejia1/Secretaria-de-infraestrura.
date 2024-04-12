@@ -982,7 +982,7 @@
                   .centered-image {
                     display: block;
                     margin: 0 auto; /* Esto centra horizontalmente */
-                    max-width: 50%; /* Establece el tamaño máximo al 50% del contenedor */
+                    max-width: 30%; /* Establece el tamaño máximo al 30% del contenedor */
                   }
                 </style>
                 </head>
@@ -1040,7 +1040,6 @@
 <a href="https://sigper.maps.arcgis.com/apps/GeoForm/index.html?appid=187894f27a6e4b358912b8ce557f6e4f">Ver sistema de reporte de parques</a>
 
     
-        </div>
             <br>
         <div class="info931 text-right">
            
@@ -1049,7 +1048,7 @@
                             <br>
             Última modificación 12/04/2024
                 </div>
-        </div>
+     
             
             
             <div class="footer-share-options">
